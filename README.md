@@ -1,2 +1,1 @@
-# hello-world
-这是我的第一个 GitHub 仓库，用于学习
+Hello GitHub! 这是 Ndola-LK 的第一个项目。
